@@ -1,0 +1,29 @@
+.title {
+	text-align: center;
+	font-size: 80px;
+	color:blue;
+
+}
+.correct {
+	color: green;
+}
+
+.incorrect {
+	color: red;
+}
+
+h1.correct, h1.incorrect{
+	width: 250px;
+}
+* {
+	font-family: 'Lancelot', cursive;;
+	background-attachment: fixed;
+	font-size: 100px;
+}
+body {
+	background-image: url(../img/background.jpg)
+
+}
+h3{
+	font-size: 20px;
+}
